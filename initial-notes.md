@@ -1,6 +1,6 @@
 # Intermediate Model Format
 
-`.imf.json`
+`.imf`
 
 # Initial Motivation / Background
 
